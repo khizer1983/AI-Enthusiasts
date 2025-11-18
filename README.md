@@ -1,1 +1,1 @@
-# AI Enthusiasts (contributor: Rajeev Kumar)
+# AI Enthusiasts (Contributor: Rajeev Kumar)
