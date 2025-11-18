@@ -1,3 +1,1 @@
-# Spring-Project
-Spring-Project
-My self Rajeev
+# AI Enthusiasts (contributor: Rajeev Kumar)
