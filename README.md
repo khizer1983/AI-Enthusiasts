@@ -1,6 +1,6 @@
 # AI Enthusiasts (Contributor: Rajeev Kumar)
 # Steps to start modules sequentially
- 1.Local AI, on Your Computer
+ 1.Local AI, on Your Computer</br>
  2.OpenAI SDK to send a prompt to a language model
  3.Tokens
  4.AI A PERSONALITY
