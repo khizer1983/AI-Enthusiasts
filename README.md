@@ -11,3 +11,4 @@
  9.resume editor modules</br>
 10.Prompt Engineering Guide</br>
 11.resume_processor(LangChain ecosystem)</br>
+12.CrewAI multi-agent system</br>
