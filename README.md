@@ -18,5 +18,5 @@
 3.How to Import Other Python Files</br>
 4.Math & Statistics for ML</br>
 5.Machine Learning & Algorithms(Supervised Learning & Model Evaluation)</br>
-6.Deep Learning & Advanced Models (Deep Learning, Practical Applications & Java Integration)</br><h6>aaaaa</h6>
+6.Deep Learning & Advanced Models (Deep Learning, Practical Applications & Java Integration)</br>(ddddd)
 
