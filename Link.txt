@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/moonglow22/rnn-and-lstm-tutorial-for-beginners
