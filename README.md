@@ -20,5 +20,6 @@
 5.Machine Learning & Algorithms(Supervised Learning & Model Evaluation)</br>
 <strong>6.Deep Learning & Advanced Models (Deep Learning, Practical Applications & Java Integration)</strong></br><p>data,
 CNNs(image processing ),Deep Learning & Advanced Models,Generative_Adversarial_Network,Google_Stock_Price_Test,Google_Stock_Price_Train,
-international-airline-passengers,Link,LSTMs,prompt engineering,RNNs,Transfer_Learning(Using pre-trained models),Variational_AutoEncoders</p>
+international-airline-passengers,Link,LSTMs,
+prompt engineering,RNNs,Transfer_Learning(Using pre-trained models),Variational_AutoEncoders</p>
 
