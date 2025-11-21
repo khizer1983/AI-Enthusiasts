@@ -13,5 +13,5 @@
 11.resume_processor(LangChain ecosystem)</br>
 12.CrewAI multi-agent system</br>
 # Build smarter ai roadmaps | ai strategy that scales the world
-1.Python Basics</br>
-2.Data Science
+1.Data Science+Python Basics</br>
+
