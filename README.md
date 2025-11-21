@@ -17,4 +17,6 @@
 2.Data Science+Python Basics</br>
 3.How to Import Other Python Files</br>
 4.Math & Statistics for ML</br>
+5.Machine Learning & Algorithms(Supervised Learning & Model Evaluation)</br>
+6.
 
