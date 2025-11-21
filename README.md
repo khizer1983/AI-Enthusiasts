@@ -15,5 +15,6 @@
 # Build smarter ai roadmaps | ai strategy that scales the world
 <h1>1.AI Road Map</h1>
 2.Data Science+Python Basics</br>
-3.How to Import Other Python Files
+3.How to Import Other Python Files</br>
+4.Math & Statistics for ML</br>
 
