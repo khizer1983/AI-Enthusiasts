@@ -13,6 +13,7 @@
 11.resume_processor(LangChain ecosystem)</br>
 12.CrewAI multi-agent system</br>
 13.Get stock price data from online (Yahoo Finance,google, etc)</br>
+14.Stock Analysis Agents with CrewAI(Agent, Task, Crew, LLM) and Groq (Groq API Key,SerpAPI Key(GoogleSearch),Streamlit for UI)</br> 
 # Build smarter ai roadmaps | ai strategy that scales the world
 <strong>1.AI Road Map</strong></br>
 2.Data Science+Python Basics</br>
