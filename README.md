@@ -25,21 +25,21 @@ CNNs(image processing ),Deep Learning & Advanced Models,Generative_Adversarial_N
 international-airline-passengers,Link,LSTMs,
 prompt engineering,RNNs,Transfer_Learning(Using pre-trained models),Variational_AutoEncoders</p>
 
-**List of Modules **
-Course 0: SQL, Advanced SQL and Data Modeling(Self Learning) 
-Course 1: Python Fundamentals 
-Course 2: Python for ML & DS 
-Course 3: Mathematics for ML & DS 
-Course 4: Exploratory Data Analysis (EDA) 
-Course 5: Machine Learning - Foundation 
-Course 6: Advanced Machine Learning 
-Course 7: Deep Learning - Foundation 
-Course 8: Advanced Deep Learning 
-Course 9: Image Processing & Computer Vision 
-Course 10: Natural Language Processing (NLP) 
-Course 11: Generative AI 
-Course 12: Large Language Models (LLMs) & Fine-Tuning 
-Course 13: Agentic AI (NEW) 
-Course 14: MLOps 
+# List of Modules </br>
+Course 0: SQL, Advanced SQL and Data Modeling(Self Learning) </br>
+Course 1: Python Fundamentals </br>
+Course 2: Python for ML & DS </br>
+Course 3: Mathematics for ML & DS </br>
+Course 4: Exploratory Data Analysis (EDA)</br> 
+Course 5: Machine Learning - Foundation </br>
+Course 6: Advanced Machine Learning </br>
+Course 7: Deep Learning - Foundation </br>
+Course 8: Advanced Deep Learning </br>
+Course 9: Image Processing & Computer Vision </br>
+Course 10: Natural Language Processing (NLP)</br> 
+Course 11: Generative AI </br>
+Course 12: Large Language Models (LLMs) & Fine-Tuning </br>
+Course 13: Agentic AI (NEW) </br>
+Course 14: MLOps </br>
 Course 15: End-to-End AI/ML Project
 
